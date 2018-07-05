@@ -3,6 +3,8 @@ Segmentation is the core of most plant phenotyping applications. Current state-o
 This work is a first step to moving plant phenotyping applications in-field and on low-cost devices with limited resources. 
 This work re-architect four baseline deep neural networks (creating what we term "Lite CNN") by reducing their parameters whilst making them deeper to avoid overfitting. 
 
+<img src="results_multi_classes.png" />
+
 # Minimum dependencies required to use these codes:
 Python 3.6.1
 
